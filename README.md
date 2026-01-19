@@ -21,7 +21,4 @@ This application demonstrates:
 - Using React Hooks
 - Basic lifecycle management
 
-## Author
-Aryamann Thakur  
-UID: 23BCS11214  
-Date: 10/01/2026
+
